@@ -1,0 +1,22 @@
+1. version control is a method of tracking changes to your code/text.
+
+2. to easily access past versions of their code/text.
+
+3. a software that helps you with version control.
+
+4. a folder in which git saves your versions of the code/text.
+
+5. the command with which you save versions.
+
+6. to make it easier to know and find the changes you committed in a particular version commit.
+
+7. to define a branch you firs need to understand what is a master branch.
+a master branch is your primary peace of code/text which your are careful not to mess with and edit only
+when you are 100% sure you want that edit to be part of your main code/text. for that, we have branches,
+to work on a copy of our code/text without any risks.
+
+8. see answer 7.
+
+9. go back to the last version committed.
+
+10. puts the version you want to save in a temporary folder to which you can add many thing to be commited.
